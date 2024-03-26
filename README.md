@@ -1,1 +1,1 @@
-Mapping project to observe possible differencies in 14 different muscles along 8 joints. 
+Mapping different 14 muscles with their respective EMG reaction times in a StartReact experiment. 
